@@ -3,7 +3,7 @@
 <p align="justify">
 Rivet Detect is a project that has been developing as a college challenge. Our goal is to practice the knowledge about computer vision and apply it to openCv tools.</p> 
 
-<p align="justify"> The project has been developing in [Python](https://www.python.org/) language, that compared to other languages like C/C++, is slower and has some advantages when working with OpenCv.</p>
+<p align="justify"> The project has been developing in Python language, that compared to other languages like C/C++, is slower and has some advantages when working with OpenCv.</p>
 
 <div align="center"><img src="https://github.com/matheusns/Rivet-Detect/blob/master/images/acquisition_structure.jpeg"></div> 
 
