@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-from autoCanny import *
 from binaryProcess import *
 from findCircles import *
 
